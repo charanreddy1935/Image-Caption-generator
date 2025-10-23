@@ -47,9 +47,9 @@ The model is trained on the **Flickr30k dataset** and learns to generate descrip
 
 ## 🖼️ Example Output
 
-Image: 1000092795.jpg
-<img width="493" height="699" alt="image" src="https://github.com/user-attachments/assets/372bcfc9-aa6b-4070-81fb-b7558e687fd3" />
 
-Generated Caption: "two men standing in a garden"
+<img width="999" height="783" alt="image" src="https://github.com/user-attachments/assets/16516f4d-db53-4278-856e-3816db530244" />
+
+
 
 
